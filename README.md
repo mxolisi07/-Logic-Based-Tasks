@@ -12,5 +12,5 @@ A JavaScript project to analyze developers and their gadgets (phones, laptops, c
 ## Usage
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mxolisi07/developer-gadgets.git
+   git clone https://github.com/mxolisi07/-Logic-Based-Tasks.git
 
